@@ -18,7 +18,7 @@ https://github.com/tryrollup/rollup-ios-sdk
 Or in `Package.swift`:
 
 ```swift
-.package(url: "https://github.com/tryrollup/rollup-ios-sdk", from: "0.2.5")
+.package(url: "https://github.com/tryrollup/rollup-ios-sdk", from: "0.2.6")
 ```
 
 ## Install with CocoaPods
@@ -27,7 +27,7 @@ Rollup is not on CocoaPods trunk (which stops accepting pods on December 2, 2026
 directly:
 
 ```ruby
-pod 'Rollup', :podspec => 'https://raw.githubusercontent.com/tryrollup/rollup-ios-sdk/0.2.5/Rollup.podspec'
+pod 'Rollup', :podspec => 'https://raw.githubusercontent.com/tryrollup/rollup-ios-sdk/0.2.6/Rollup.podspec'
 ```
 
 ## Set up your app
