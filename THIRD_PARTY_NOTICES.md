@@ -21,8 +21,6 @@ Data files bundled with their own notices inside the framework's resource bundle
   WordNet, CC BY 4.0; Wikidata, CC0; and the category references it lists).
 - `RollupCore_RollupCore.bundle/photo-taxonomy-OEWN-LICENSE.txt`: Open English WordNet license.
 - `RollupCore_RollupCore.bundle/photo-taxonomy-Princeton-LICENSE.txt`: Princeton WordNet license.
-- `RollupCore_RollupCore.bundle/RAM-Apache-2.0.txt` and `RAM-NOTICE.txt`: the Recognize Anything (RAM) tag list,
-  Apache License 2.0, with its notices.
 
 The machine learning models and place data the SDK downloads on first run are not part of the framework and are
 covered by their own terms.
