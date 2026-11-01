@@ -9,8 +9,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Rollup",
-            url: "https://www.tryrollup.com/sdk/ios/0.3.0/Rollup.xcframework.zip",
-            checksum: "d46e1935cd3b70d9142d90a9d6ffc5f0373728ed4cdba1775e57b33862c9cb8f"
+            url: "https://www.tryrollup.com/sdk/ios/0.3.1/Rollup.xcframework.zip",
+            checksum: "e8962f269c4e775c3892ded806d26864540cfe635c688203de2d0c83083f9ab0"
         ),
     ]
 )
